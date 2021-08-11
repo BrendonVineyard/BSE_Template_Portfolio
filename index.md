@@ -14,7 +14,8 @@ I am student learning at BlueStamp Engineering and I am working on an Obstacle A
 # Second Milestone
 My second milestone is the increased accuracy of my robot. After my first milestone. I had put tape on the wheels because the pressure on the motors were too much for them to handle and that caused the robot to be very slow. Puttin tape on the wheels proved very efficient in increased speed and reliability. As for the sensor, I had recoded the distance for the waves that emanate for other surfaces so that the robot no longer comes too close into contact with something. 
 
-[![Third Milestone]{:target="_blank" rel="noopener"}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lMHBSz7377A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 # First Milestone
   
 
