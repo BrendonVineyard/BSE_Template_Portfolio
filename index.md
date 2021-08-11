@@ -20,7 +20,7 @@ My second milestone is the increased accuracy of my robot. After my first milest
 
 My first milestone was being able to have the robot perform all the directions. Go back, go forwawrd, go left and go right, pretty straightforward. First of what I had to do was build the chassis for where all the components will be mounted and as for the motors to help move the robot. Then I wired and sodered the motors to the motor driver. This was tough since some of the output screws weren't budging so I had to get a new one. After wiring the motors to the driver, I wired the driver to the arduino so that I can outsource the code into it and run it. Before all of that, I needed a power source for the motor driver. So I went and used 4 double A batteries to power the driver. Not only that, I did some research on how to wire the micro servo and the ultrasonic sensors to the arduino. As a result, I wired those together and began with coding. Now my robot was able to make the turns that I set out for it to do. 
 
-[![First Milestone](https://www.youtube.com/watch?v=bE2VUoPaWz0){:target="_blank" rel="noopener"}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bE2VUoPaWz0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Circuit Diagram
 ![Screenshot (64)](https://user-images.githubusercontent.com/20545400/129069589-e4d4bf8c-44c0-4676-857c-d9b5c2e92ea9.png)
