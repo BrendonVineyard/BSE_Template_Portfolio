@@ -1,9 +1,9 @@
-﻿# Project Name/Title Goes Here
+﻿# Obstacle Avoiding Robot
 I am student learning at BlueStamp Engineering and I am working on an Obstacle Avoiding Robot with Arduino. 
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Brendon Vineyard | Bard High School Early College Manhattan | Computer Engineering | Graduated
+| Brendon V | Bard High School Early College Manhattan | Computer Engineering | Graduated
 
 ![Headstone Image]
   
