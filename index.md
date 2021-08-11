@@ -5,10 +5,9 @@ I am student learning at BlueStamp Engineering and I am working on an Obstacle A
 |:--:|:--:|:--:|:--:|
 | Brendon Vineyard | Bard High School Early College Manhattan | Computer Engineering | Graduated
 
-![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
+![Headstone Image]
   
 # Final Milestone
-My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint. 
 
 [![Final Milestone]{:target="_blank" rel="noopener"}
 
